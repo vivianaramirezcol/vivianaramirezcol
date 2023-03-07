@@ -26,7 +26,7 @@ Disfruto del trabajo colaborativo, la resolución de problemas, y estoy siempre 
 
 
 
-## 📈 &nbsp;&nbsp;Some of my stats are:
+## 📈 &nbsp;&nbsp;Algunas de mis estadisticas son:
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=javiersanchezc&theme=buefy&show_icons=true&hide=contribs" />
 </p>
