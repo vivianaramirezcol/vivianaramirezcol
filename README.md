@@ -2,7 +2,7 @@
 
 
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <img src=" " alt=" imagen dinamica" />&nbsp;&nbsp;
   
   <img src="https://user-images.png" alt="banner ">
 
@@ -28,10 +28,11 @@ Disfruto del trabajo colaborativo, la resolución de problemas, y estoy siempre 
 
 ## 📈 &nbsp;&nbsp;Algunas de mis estadisticas son:
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=javiersanchezc&theme=buefy&show_icons=true&hide=contribs" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=vivianaramirezcol&theme=buefy&show_icons=true&hide=contribs" />
 </p>
 <p align="center">
-  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=javiersanchezc.javiersanchezc" />
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=vivianaramirezcol.vivianaramirezcol
+" />
 </p>
 
 <!--
